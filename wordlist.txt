@@ -1,0 +1,10 @@
+python
+vizag
+bang 
+mysore
+chennai
+pune
+noida
+Kerala
+Bangalore
+Mumbai
